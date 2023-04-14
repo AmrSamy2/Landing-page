@@ -114,6 +114,9 @@ h3{
   font-style: italic;
   font-weight: 900;
 }
+span{
+  font-size: large;
+}
 .signup {
   align-self: center;
   display: flex;
