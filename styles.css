@@ -1,0 +1,150 @@
+*{
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+a{
+  font-size: 18px;
+  color: #e5e7eb;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  gap: 70px;
+}
+.upper-section {
+  display: flex;
+  flex-direction: column;
+  background-color: #1f2937;
+  height: 400px;
+  gap: 60px;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 0px;
+  font-size: 24px;
+  color: #F9FAF8;
+}
+h2{
+  font-size: 48px;
+  color: #F9FAF8;
+  font-weight: 900;
+}
+.p1 {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+.B1 {
+  margin-top: 20px;
+  border: none;
+}
+button {
+background-color: #3882f6;
+}
+ul {
+  display: flex;
+  gap: 40px;
+  margin-right: 20px;
+}
+.start {
+  display: flex;
+  gap: 300px;
+
+}
+.this-website{
+  display: flex;
+  flex-direction: column;
+  gap:px;
+  width: 300px;
+  margin-left: 210px;
+}
+button {
+  width:100px;
+  padding: 5px;
+  color:white;
+  border-radius: 9px;
+}
+img {
+  align-self: center;
+  margin-right: 60px;
+  height: 200px;
+  width: 500px;
+}
+.middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.empty {
+  width: 100px;
+  height: 100px;
+  border-style: solid;
+  border-color: #3882f6;
+  border-radius: 9px;
+  margin-bottom: 15px;
+}
+.info{
+  display: flex;
+  gap: 40px;
+}
+h3{
+  font-size: 36px;
+  font-weight: 900;
+  color: #1f2937;
+}
+.text{
+  width: 100px;
+}
+.quote{
+  display: flex;
+  flex-direction: column;
+  background-color: #e5e7eb;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  gap: 30px;
+}
+.p2 {
+  color: #1f2937;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 900;
+}
+.signup {
+  align-self: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #3882f6;
+  width: 700px;
+  height: 120px;
+  border-radius: 9px;
+}
+.b2{
+  border-color: #e5e7eb;
+  border-style: solid;
+}
+
+h4 {
+  font-size: 22px;
+  font-weight: 900;
+  color: #F9FAF8;
+}
+.p3 {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+footer{
+  display: flex;
+  align-self: center;
+  background-color: #1f2937;
+  color: #F9FAF8;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+}
